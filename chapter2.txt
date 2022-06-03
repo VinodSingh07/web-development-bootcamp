@@ -6,3 +6,8 @@ wandaVision
 Loki
 Thor love and thunder
 
+block-chain is one of the hottest topic nowdays, there is lot of demand of an block-chain developer:
+the skills you need are
+solidity
+react 
+web development
